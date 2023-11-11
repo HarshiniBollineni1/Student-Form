@@ -1,7 +1,7 @@
 # Student-Form
 The Student Registration Form is a web application designed to facilitate the collection and management of student data. The system consists of a home page, an about page, login page and a registration page, all seamlessly connected to a backend implemented in PHP.The backend utilizes a MySQL database to store student details, including first name, last name, email, age, and many other constraints. The database structure ensures efficient data organization, with each student assigned a unique identifier (ID) and registration date automatically recorded.The PHP backend includes a configuration file  for connecting to the MySQL database. The register.php file handles the registration process, receiving student information through an HTTP POST request and inserting it into the database.The home page serves as the entry point for users, providing navigation links to the about page, login page  and the registration page.The registration page features a form where students can input their details for registration.This student information system aims to streamline the process of collecting and managing student data, providing a user-friendly interface for registration while maintaining a robust backend infrastructure for data storage and retrieval. The integration of PHP ensures server-side processing, enhancing the overall functionality and reliability of the system.
 
-# Database stored
+# Stored Data
 <img width="960" alt="image" src="https://github.com/HarshiniBollineni1/Student-Form/assets/143960116/be1ac8fc-8675-4a25-a50a-f54afe6c59b6">
 
 
